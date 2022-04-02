@@ -1,7 +1,8 @@
+import Layout from "./components/Layout/Layout";
 
 function App() {
   return (
-    <p>Excel Room</p>
+    <Layout></Layout>
   );
 }
 
